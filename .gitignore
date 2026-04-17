@@ -30,12 +30,14 @@ env/
 *.safetensors
 
 # Audio / data
+data/
 *.wav
 *.mp3
 *.flac
 *.ogg
 *.npy
 *.npz
+*.zip
 
 # Logs
 *.log
